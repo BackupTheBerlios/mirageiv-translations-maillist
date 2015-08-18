@@ -1,0 +1,40 @@
+From konstantin.hard at gmail.com  Fri Dec 28 10:28:33 2012
+From: konstantin.hard at gmail.com (Konstantin Krasavin)
+Date: Fri, 28 Dec 2012 15:28:33 +0600
+Subject: [Mirageiv-translations] Russian full translation
+Message-ID: <CAJGohJNC87CBhs83ViqLFv4bEHVhAGnYQKSfbBUONQffKTZLeg@mail.gmail.com>
+
+I create full translation - ru.po for Russian
+Can you add to svn - my translation, it works fine with last svn version...
+
+Thank you.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/mirageiv-translations/attachments/20121228/43869148/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ru.po
+Type: application/octet-stream
+Size: 35215 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/mirageiv-translations/attachments/20121228/43869148/attachment-0001.obj>
+
+From fredricj at users.berlios.de  Sat Dec 29 11:53:35 2012
+From: fredricj at users.berlios.de (Fredric Johansson)
+Date: Sat, 29 Dec 2012 11:53:35 +0100
+Subject: [Mirageiv-translations] Russian full translation
+In-Reply-To: <CAJGohJNC87CBhs83ViqLFv4bEHVhAGnYQKSfbBUONQffKTZLeg@mail.gmail.com>
+References: <CAJGohJNC87CBhs83ViqLFv4bEHVhAGnYQKSfbBUONQffKTZLeg@mail.gmail.com>
+Message-ID: <CA+NOQxFmH06F2DfT87+0mNbtgUE0Q55iZaMZm=k-Q5idjV6AXA@mail.gmail.com>
+
+Thanks, added!
+Please sign up to the ML in the future or post the file on the berlios
+page to simplify the process.
+
+On Fri, Dec 28, 2012 at 10:28 AM, Konstantin Krasavin
+<konstantin.hard at gmail.com> wrote:
+> I create full translation - ru.po for Russian
+> Can you add to svn - my translation, it works fine with last svn version...
+>
+> Thank you.
+
